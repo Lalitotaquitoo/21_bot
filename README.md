@@ -32,6 +32,7 @@ Un bot de Discord para jugar al **Blackjack (21)** con cartas virtuales utilizan
 <p align="center">
   <img src="./assets/juego.png" alt="Juego en progreso">
 </p>
+
 ### ⬅️ **Final del juego**
 <p align="center">
   <img src="./assets/parte1.png" alt="Juego en progreso">
