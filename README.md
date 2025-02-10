@@ -51,7 +51,7 @@ Un bot de Discord para jugar al **Blackjack (21)** con cartas virtuales utilizan
 ### 1️⃣ **Clonar el repositorio**  
 ```sh
 git clone https://github.com/Lalitotaquitoo/21_bot.git
-cd blackjack-bot
+cd 21_bot
 ```
 
 ### 2️⃣ **Instalar dependencias**  
